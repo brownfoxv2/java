@@ -14,7 +14,7 @@
       <img src="/lang-logo.png">
     </a>
     <h1>Getting Started with Java</h1>
-    <p>This is a sample Java application deployed to Heroku version 1.1. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
+    <p>This is a sample Java application deployed to Heroku version 1.2. It's a reasonably simple app - but a good foundation for understanding how to get the most out of the Heroku platform.</p>
 
 
     <h2>here is another chn</h2>
